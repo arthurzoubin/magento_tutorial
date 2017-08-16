@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<!--
+/**
+ * Module initial config
+ *
+ * @author Arthur
+ */
+-->
+<config>
+    <modules>
+        <Magentostudy_News>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Magentostudy_News>
+    </modules>
+</config>
